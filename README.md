@@ -12,4 +12,6 @@ Versions: [Python: 3.12.3,
     torch: 2.5.1
     torchvision: 0.20.1
     torchaudio: 2.5.1
-    kaggle: 1.6.17],
+    kaggle: 1.6.17
+    tensorflow_hub: 0.16.1
+    ],
